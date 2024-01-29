@@ -1,1 +1,1 @@
-# factorio-optimal-ballancers-research
+![Kyle Brown](img/Factorio.png)
